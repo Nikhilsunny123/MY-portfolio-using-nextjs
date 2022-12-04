@@ -2,7 +2,7 @@
 
 function Skills() {
   return (
-    <div>
+    <div className="content-center m-auto">
         <h1>I’m Familier with</h1>
     </div>
   )

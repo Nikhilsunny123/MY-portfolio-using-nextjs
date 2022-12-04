@@ -1,5 +1,6 @@
 import Image from "next/image"
 import github from "../images/icons/github.svg"
+import linkedin from "../images/icons/linkedin.svg"
 
 function HeroSection() {
   return (
@@ -11,10 +12,17 @@ function HeroSection() {
             <button>Let’s Talk!</button>
             <Image
               alt="github"  
-              layout="responsive"
+         
               src={github}
-              height={100}
-             width={200}
+              height={50}
+             width={50}
+            />
+             <Image 
+              alt="github"  
+            
+              src={linkedin}
+              height={50}
+              width={50}
             />
 
             
