@@ -5,7 +5,7 @@ import github from "../../images/icons/github.svg";
 import linkedin from "../../images/icons/linkedin.svg";
 const Footer = () => {
   return (
-    <footer className="bottom-0 w-full mt-40 p-2 bg-white rounded-lg shadow dark:bg-gray-900">
+    <footer className="bottom-0 w-full mt-40 p-2 bg-blue rounded-lg shadow dark:bg-gray-900">
       <div className="container flex flex-col items-center gap-5">
         <h2 className=" text-2xl"> Get in Touch</h2>
 
